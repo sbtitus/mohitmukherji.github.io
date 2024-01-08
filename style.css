@@ -2,7 +2,7 @@ td,
 th,
 tr,
 p{
-  text-align: left;
+  /* text-align: left; */
   font-family: -apple-system, BlinkMacSystemFont, sans-serif, system-ui;
   font-size: 16px;
   line-height: 20px;
