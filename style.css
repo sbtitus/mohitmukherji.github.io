@@ -38,7 +38,8 @@ heading {
 .body-text {
   font-family: system-ui, Arial, sans-serif;
   font-weight: normal;
-  width: 70%;
+  width: 50%;
+  min-width: 40%;
   margin: 50px;
   color: black;
   background-color: transparent;
