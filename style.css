@@ -44,7 +44,7 @@ heading {
   background-color: transparent;
   text-decoration: none;
   text-align: left;
-  /* flex-grow: 1; */
+  flex-grow: 1;
 }
 
 a.body-text:hover {
