@@ -59,15 +59,12 @@ h1.body-text {
 
 img{
   float: left;
-  max-width: 50%;
-  height: auto;
-  display: block;
 }
 
-@media (width: 600px) {
+/* @media (width: 600px) {
   /* Adjust layout for smaller screens */
-  .container {
+  /* .container {
     display: block;
     width: 100%; 
-  }
-}
+  } 
+  } */
