@@ -59,3 +59,11 @@ h1.body-text {
 img{
   float: left;
 }
+
+@media (max-width: 600px) {
+  /* Adjust layout for smaller screens */
+  .left-column,
+  .right-column {
+    width: 100%; 
+  }
+}
