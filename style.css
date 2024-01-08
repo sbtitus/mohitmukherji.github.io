@@ -67,6 +67,7 @@ img{
 @media (max-width: 600px) {
   /* Adjust layout for smaller screens */
   .container {
+    display: block;
     width: 100%; 
   }
 }
