@@ -3,7 +3,7 @@ th,
 tr,
 p{
   text-align: left;
-  font-family: system-ui, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif, system-ui;
   font-size: 16px;
   line-height: 20px;
   margin-top: 0px;
@@ -16,14 +16,14 @@ a:link{
 }
 
 heading {
-  font-family: system-ui, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif, system-ui;
   font-size: 22px;
 }
 
 
 .container {
   display: flex;
-  font-family: system-ui, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif, system-ui;
   width: 75%;
   font-weight: normal;
   margin-left: 80px;
@@ -36,7 +36,7 @@ heading {
 
 
 .body-text {
-  font-family: system-ui, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif, system-ui;
   font-weight: normal;
   width: 50%;
   min-width: 400px;
