@@ -39,7 +39,7 @@ heading {
   font-family: system-ui, Arial, sans-serif;
   font-weight: normal;
   width: 50%;
-  min-width: 40%;
+  min-width: 400px;
   margin: 50px;
   color: black;
   background-color: transparent;
