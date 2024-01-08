@@ -22,7 +22,7 @@ heading {
 
 
 .container {
-  display: inline-block;
+  display: flex;
   font-family: system-ui, Arial, sans-serif;
   width: 75%;
   font-weight: normal;
